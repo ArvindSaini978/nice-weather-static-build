@@ -14,7 +14,7 @@ Nice Weather is an optimized build of project Nice Weather. It shows weather det
 * React
 * TailwindCSS
 ## Setup
-To start the App you have to open index.html with a server like serve, vite etc.
+To start the App you have to open ```index.html``` with a server like serve, vite etc.
 ## Contribution
 Your contributions are always welcome and appreciated. Following are the things you can do to contribute to this project.
 1. #### Report a bug
